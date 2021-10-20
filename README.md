@@ -4,23 +4,25 @@ FUCK YOU ZUKU🖕
 
 • apt update 
 
-•apt upgrade
+• apt upgrade
 
-•apt install python
+• apt install python
 
-•apt install python2
+• apt install python2
 
-•pip2 install requests
+• apt install git
 
-•pip2 install mechanized
+• pip2 install requests
 
-•pip2 install bs4
+• pip2 install mechanized
 
-•git clone https://github.com/Black19114/MR.AZEZAL
+• pip2 install bs4
 
-•cd MR.AZEZAL
+• git clone https://github.com/Black19114/MR.AZEZAL
 
-•python2 Azezal.py
+• cd MR.AZEZAL
+
+• python2 Azezal.py
 
 If you got any problem contact me on my Facebook Account
 
